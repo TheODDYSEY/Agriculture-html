@@ -42,8 +42,8 @@ This project consists of the following components:
 
 ### GitHub Repositories
 
-1. **Frontend (HTML)**: [Mkulima Expert Frontend](https://github.com/TheODDYSEY/Agriculture-html)
-2. **Backend (Streamlit Dashboard)**: [Mkulima Expert Backend](https://github.com/TheODDYSEY/Nasa-App)
+1. **Frontend (HTML)**: [Mkulima Expert Frontend](https://github.com/TheODDYSEY/Mkulima-Expert)
+2. **Backend (Streamlit Dashboard)**: [Mkulima Expert Backend](https://github.com/TheODDYSEY/Nasa-NDVI-Dashboard)
 3. **AI Chatbot**: [NASA Space Apps Recommendation Chatbot](https://github.com/AllenWachio/nasa-spaceapps-recommendation-chatbot)
 
 ## Demo
